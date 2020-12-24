@@ -1,2 +1,2 @@
 # Linear Regression
-Find yearly Avg. spent on medical bills based on the Age 
+Based on the Age of individual, find yearly Avg. spent on medical bills 
